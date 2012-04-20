@@ -39,10 +39,15 @@ say NotePad++ and provide fllowing parameters and save the file:
         ruby CodePorting-C#2Java.rb
 
 6)- If all the parameters provided are valid you will see something like this:
+		
 		Sending login call
+		
 		Token is : 8f8112d5-50b5-4c10-83e9-1e1d7c33f848
+		
 		Now adding new project to code porting
+		
 		PORTING REPO TO JAVA now ......
+		
 		PORTING done = True
 	
 	If so, BINGO! your project has been ported and placed on your codeporting.com account after porting.
