@@ -184,7 +184,7 @@ end
   #   boolean  :active
   #####################################################################################################
   String $project_name = "TEST-PROJECT"
-  $repo_key = "Test"
+  $repo_key = "CSharpSourceProject"
   $target_repo_key = "TestJava"
   $username = "bali2u"
   $password = "pakistan"
