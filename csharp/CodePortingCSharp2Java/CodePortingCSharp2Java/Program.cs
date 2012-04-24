@@ -1,15 +1,8 @@
 ﻿/*--------------------------------------------------------------------------------------+
-|
-|   $Copyright: (c) 2001-2012 Aspose Pty Ltd. All rights reserved. $
 |   
-|   This program is confidential, proprietary and unpublished property of Aspose Pty
-|   Ltd. It may NOT be copied in part or in whole on any medium, either electronic or
-|   printed, without the express written consent of Aspose Pty Ltd.This program is 
-|   developed and maintained by CodePorting venture [http://codeporting.com ] a division of Aspose Pty Ltd.
+|  This sample is developed and maintained by CodePorting venture
+|  [http://codeporting.com ] a division of Aspose Pty Ltd.
 |
-|   NOTE:
-|   Run the command line utility from command prompt using following command:
-|   CodePortingCSharp2Java codeportingtest testpassword
 +--------------------------------------------------------------------------------------*/
 
 using System;
